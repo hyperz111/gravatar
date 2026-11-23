@@ -5,9 +5,6 @@
 	"scripts": {
 		"format": "prettier -w ."
 	},
-	"dependencies": {
-		"@netlify/functions": "^6.0.2"
-	},
 	"devDependencies": {
 		"@hyperz111/prettier-config": "^1",
 		"prettier": "^3"
