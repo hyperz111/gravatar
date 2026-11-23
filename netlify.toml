@@ -1,2 +1,5 @@
-[functions]
-	directory = "src"
+[[redirects]]
+  from = "/*"
+  to = "https://gravatar.com/hyperz111"
+  status = 302
+  force = true
