@@ -15,3 +15,8 @@ const handle = (request) => {
 };
 
 export default handle;
+
+/** @type {import("@netlify/functions").Config} */
+export const config = {
+	path: "/*",
+};
